@@ -1,0 +1,6 @@
+[deps]
+ColorSchemes = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+VideoIO = "d6d074c3-1acf-5d4c-9a43-ef38773959a2"
